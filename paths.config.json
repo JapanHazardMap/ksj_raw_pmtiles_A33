@@ -1,0 +1,97 @@
+{
+  "history": [
+    {
+      "timestamp": "2026-11-20T23:08:08.638+09:00",
+      "bytes": 0
+    },
+    {
+      "timestamp": "2026-11-21T00:23:59.845+09:00",
+      "bytes": 0
+    },
+    {
+      "timestamp": "2026-11-21T08:15:17.622+09:00",
+      "bytes": 129132466
+    }
+  ],
+  "history_limit": 10,
+  "over1GB": false,
+  "region_blocks": {
+    "hokkaido_tohoku": [
+      "01",
+      "02",
+      "03",
+      "04",
+      "05",
+      "06",
+      "07"
+    ],
+    "touhou": [
+      "08",
+      "09",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "22"
+    ],
+    "chuuhou": [
+      "16",
+      "17",
+      "18",
+      "19",
+      "20",
+      "21",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "35"
+    ],
+    "shikoku_kyushu": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47"
+    ]
+  },
+  "paths": {
+    "hokkaido_tohoku": {
+      "relPath": "../ksj_raw_pmtiles_A33_hokkaido_tohoku",
+      "bytes": null
+    },
+    "touhou": {
+      "relPath": "../ksj_raw_pmtiles_A33_touhou",
+      "bytes": null
+    },
+    "chuuhou": {
+      "relPath": "../ksj_raw_pmtiles_A33_chuuhou",
+      "bytes": null
+    },
+    "shikoku_kyushu": {
+      "relPath": "../ksj_raw_pmtiles_A33_shikoku_kyushu",
+      "bytes": null
+    }
+  },
+  "JsonInformation": {
+    "fileName": "paths.config.json",
+    "FullPath": "E:\\MyWorkspaces\\pnpmManagedWS\\TopoProject\\Workspace\\publicRepos\\JapanHazardMap\\ksj_raw_pmtiles_A33\\paths.config.json"
+  }
+}
