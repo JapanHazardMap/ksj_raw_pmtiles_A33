@@ -22,9 +22,9 @@ FileList*.txt
 FileSummary*.txt
 
 # GIS Large Files (Hosted on GitHub Releases)
-*.pmtiles
-*.mbtiles
-*.geojson
-*.gpkg
-*.parquet
-*.topojson
+# *.pmtiles
+# *.mbtiles
+# *.geojson
+# *.gpkg
+# *.parquet
+# *.topojson
